@@ -22,7 +22,7 @@ jobs:
         with:
           clean: false
 
-      - name: Display Class Info
+      - name: Display Class Details
         run: echo "Hi, I am from COSC 1209 class"
 
       - name: Grant execute permission to Gradle wrapper (Linux/macOS only)
